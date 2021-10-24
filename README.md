@@ -4,7 +4,8 @@
 
 A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas. Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
 
-[https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white]
+![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 	
 ## Various techs i use
 
