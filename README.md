@@ -1,4 +1,4 @@
-![Cover](https://github.com/Klipfel-Nicolas/Klipfel-Nicolas/img/autodidact.jpeg)
+![Cover](https://github.com/Klipfel-Nicolas/Klipfel-Nicolas/blob/main/img/autodidact.jpeg)
 
 # **I'm** [Nicolas Klipfel](https://nicolas-klipfel.fr/)
 
