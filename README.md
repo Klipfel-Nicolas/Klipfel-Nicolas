@@ -4,7 +4,7 @@
 
 A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas. Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
 
-![image](https://user-images.githubusercontent.com/79662506/138592026-2ebf22ef-fea8-4da7-bfa6-421bd50a958d.png)
+	https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white
 
 ## Various techs i use
 
