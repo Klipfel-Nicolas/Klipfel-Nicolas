@@ -1,4 +1,4 @@
-#**I'm** [Nicolas Klipfel](https://nicolas-klipfel.fr/)
+# **I'm** [Nicolas Klipfel](https://nicolas-klipfel.fr/)
 
 A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas. Reach out to me on LinkedIn if you'd like to talk.
 
