@@ -2,7 +2,7 @@
 
 # **I'm** [Nicolas Klipfel](https://nicolas-klipfel.fr/)
 
-A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas. Reach out to me on LinkedIn if you'd like to talk.
+A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas. Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
 
 Feel free to contact me.
 
