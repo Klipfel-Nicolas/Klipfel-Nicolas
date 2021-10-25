@@ -16,3 +16,6 @@ A Full Stack developer from Strasbourg 🇫🇷. I love building applications & 
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue&logoColor=white) ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+[![Nico's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klipfel-Nicolas&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
