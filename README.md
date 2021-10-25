@@ -6,6 +6,8 @@ A Full Stack developer from Strasbourg 🇫🇷. I love building applications & 
 
 [![LinkedIn](https://img.shields.io/badge/Get%20In%20Touch-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-klipfel/)
 
+[![Portfolio](https://img.shields.io/badge/Have%20A%20Look-Portfolio-66FAD4?style=for-the-badge)](https://nicolas-klipfel.fr/)
+
 ## Various techs i use
 
 
