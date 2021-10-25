@@ -11,5 +11,6 @@ A Full Stack developer from Strasbourg 🇫🇷. I love building applications & 
 
 ## Various techs i use
 
+[![Sass]](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 
-
+[![Javascript]](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
