@@ -17,7 +17,6 @@ A Full Stack developer from Strasbourg 🇫🇷. I love building applications & 
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+## GitHub Profil
+![Nico's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klipfel-Nicolas)
 
-[![Nico's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Klipfel-Nicolas)]
-
-[![Nico's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Klipfel-Nicolas)]
