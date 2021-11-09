@@ -6,13 +6,16 @@ I'am :
 - 💻 Full Stack developer
   - Vue.js/React and Javascript vanilla for the front-end
   - Php/Symfony or Node.js/Express for the back-end
+
 - 🇫🇷 French 
   - and based in Strasbourg 🥨
+
 -  🛠 currently working in Tualu as fullstack developer
+
 -  🧑‍💻 passionate about
-  -  UI, UX 
-  -  Web design 
-  -  3D with Blender and three.js
+    -  UI, UX 
+    -  Web design 
+    -  3D with Blender and three.js
 
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
