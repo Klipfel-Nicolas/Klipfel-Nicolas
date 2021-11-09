@@ -2,7 +2,19 @@
 
 **Hi ! I'm** [Nicolas Klipfel](https://nicolas-klipfel.fr/)
 
-A Full Stack developer from Strasbourg 🇫🇷. I love building applications & discussing new product ideas.
+I'am :
+- 💻 Full Stack developer
+  - Vue.js/React and Javascript vanilla for the front-end
+  - Php/Symfony or Node.js/Express for the back-end
+- 🇫🇷 French 
+  - and based in Strasbourg 🥨
+-  🛠 currently working in Tualu as fullstack developer
+-  🧑‍💻 passionate about 
+  - UI, UX, 
+  - Web design
+  - 3d with Blender and three.js
+
+
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
 
 [![LinkedIn](https://img.shields.io/badge/Get%20In%20Touch-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-klipfel/)
