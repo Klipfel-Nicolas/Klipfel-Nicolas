@@ -9,10 +9,10 @@ I'am :
 - 🇫🇷 French 
   - and based in Strasbourg 🥨
 -  🛠 currently working in Tualu as fullstack developer
--  🧑‍💻 passionate about 
-  - UI, UX, 
-  - Web design
-  - 3d with Blender and three.js
+-  🧑‍💻 passionate about
+  -  UI, UX 
+  -  Web design 
+  -  3D with Blender and three.js
 
 
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nicolas-klipfel/) if you'd like to talk.
